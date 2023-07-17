@@ -1,2 +1,3 @@
 # OnlineOrders
-database solution store online orders 
+SQL programming project that using a database solution to Demonstrate J Crew Group Online Orders. 
+
